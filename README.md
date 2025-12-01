@@ -7,26 +7,6 @@ Link da Documentação :  https://dilei27.github.io/desafio-qa-web-playwright/
 Os testes garantem o funcionamento da Home e da funcionalidade de busca, validando termos válidos e inválidos.
 
 ---
-
-## 📂 Estrutura do Projeto
-
-pages/
-  └── search.page.js
-
-tests/
-  ├── home.spec.js
-  └── search.spec.js
-
-.github/workflows/playwright.yml
-docker-compose.yml
-Dockerfile
-playwright.config.js
-package.json
-mkdocs.yml
-docs/
-
----
-
 ## 🚀 Como executar localmente
 
 ### 1️⃣ Instalar dependências
