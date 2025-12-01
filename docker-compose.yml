@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  web:
+    build: .
+    container_name: desafioqa_web
+    ports:
+      - "9323:9323"
+    working_dir: /app
+    tty: true
+    stdin_open: true
+    volumes:
+      - .:/app

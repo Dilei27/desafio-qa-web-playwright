@@ -1,0 +1,12 @@
+{
+  "name": "desafio-qa-web",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "playwright test",
+    "test:home": "playwright test tests/home.spec.js",
+    "test:search": "playwright test tests/search.spec.js"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.57.0"
+  }
+}

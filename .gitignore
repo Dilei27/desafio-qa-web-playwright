@@ -1,0 +1,28 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json.md5
+
+# Playwright
+test-results/
+playwright-report/
+playwright/.cache/
+blob-report/
+.failures/
+
+# System / Editor
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid
+*.log
+
+# OS / Temp
+*.tmp
+*.temp
+*.swp
