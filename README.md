@@ -2,7 +2,7 @@
 
 Automação de testes Web para o Blog **Agibank**, utilizando **Playwright**, **Docker** e **GitHub Actions**.
 
-Link da Documentação : 
+Link da Documentação :  https://dilei27.github.io/desafio-qa-web-playwright/
 
 Os testes garantem o funcionamento da Home e da funcionalidade de busca, validando termos válidos e inválidos.
 
